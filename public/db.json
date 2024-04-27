@@ -1,0 +1,54 @@
+{
+    "jobs":[
+        {
+            "job_id":1,
+            "job_companyName":"Airbnb",
+            "job_companyLogo":"https://imgs.search.brave.com/OlYq09rUtX-NVwDrb6hZVseD0Guy8mv78_n2gzeUIUY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy82/LzY5L0FpcmJuYl9M/b2dvX0IlQzMlQTls/by5zdmc.svg",
+            "job_name":"Graphic Designer",
+            "job_description":"Create visual concepts, design layouts, and produce high-quality graphics for various projects",
+            "job_location":"Deerfield, FL",
+            "job_salary":"$153k - $184k per year",
+            "job_requirements":["Bachelor's degree in Graphic Design or related field", "Proficiency in Adobe Creative Suite", "Creative thinking and attention to detail"]
+        },
+        {
+            "job_id":2,
+            "job_companyName":"Netflix",
+            "job_companyLogo":"https://imgs.search.brave.com/ClHlHEZJY38CRpTTB5GvXU-wOWQRs7hYVlr2M1j7u6E/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzBjL2Nj/LzBhLzBjY2MwYWQ2/MWQ2YTFiMThmN2Q1/M2U2MzZiYTA5Nzlj/LmpwZw",
+            "job_name":"Software Engineer (L4)",
+            "job_description":"To work with users and engineers to define what they want, and what we can deliver and to implement new features in systems from initial design to delivery.",
+            "job_location":"San Francisco, CA",
+            "job_salary":"$160k per year",
+            "job_requirements":["Master's (Required)","Strong understanding of Object-Oriented languages (Java preferred) and related frameworks"]
+        },
+        {
+            "job_id":3,
+            "job_companyName":"Swish Analytics",
+            "job_companyLogo":"https://imgs.search.brave.com/rNFBhiiR7ozxM6HMzL6iRdlRs9VLSKX9rnVbu52hOTI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly96ZW5w/cm9zcGVjdC1wcm9k/dWN0aW9uLnMzLmFt/YXpvbmF3cy5jb20v/dXBsb2Fkcy9waWN0/dXJlcy82NWRjYmQz/NGRhNzMzZjAwMDE2/NTQ1ZjYvcGljdHVy/ZQ.jpeg",
+            "job_name":"Front-End Developer",
+            "job_description":"Responsible for creating visually appealing and highly functional user interfaces for web applications.",
+            "job_location":"Oakland, CA",
+            "job_salary":"$100k - 120k per year",
+            "job_requirements":["Bachelor's (Required)","React experience and an understanding of functional programming and software design principles like single responsibility."]
+        },
+        {
+            "job_id":4,
+            "job_companyName":"FedEx",
+            "job_companyLogo":"https://imgs.search.brave.com/XczlaMF9ocNU6_vQDWUojAsiP-4Iw1SkP_JC6g6Unls/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbmti/b3RkZXNpZ24uY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDEy/LzA5L0ZlZEV4LUxv/Z28tRGVzaWduLnBu/Zw",
+            "job_name":"Data Scientist",
+            "job_description":"Conduct data analysis, develop predictive models, and generate insights to drive business decisions.",
+            "job_location":"Seattle, WA",
+            "job_salary":"$100k - $130k per year",
+            "job_requirements":["Master's degree in Data Science, Statistics, or related field", "Proficiency in programming languages like R or Python", "Experience with machine learning algorithms"]
+        },
+        {
+            "job_id":5,
+            "job_companyName":"Shipt",
+            "job_companyLogo":"https://imgs.search.brave.com/UULlZf93hRTY76QzNcNohd0RCS2C1DUeXcizWMEklow/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vaS5waW5p/bWcuY29tL29yaWdp/bmFscy80Zi85NC83/ZS80Zjk0N2UzMGI1/YjMwOWMxMGJhMmQ0/ZTQ0ZDZhNTc0Yi5w/bmc",
+            "job_name":"Financial Analyst",
+            "job_description":"Analyze financial data, prepare reports, and provide insights to support strategic decision-making.",
+            "job_location":"Chicago, IL",
+            "job_salary":"$70k- $90k per year",
+            "job_requirements":["Bachelor's degree in Finance, Accounting, or Economics", "Proficiency in financial modeling and analysis", "Attention to detail"]
+        }
+    ]
+}
